@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body {
+  background-color: rgb(217, 212, 126);
+}
+
+#wrap {
+  width: 800px;
+  margin: auto;
+  background-color: rgb(240, 240, 240);
+  border: 20px dashed rgb(40, 77, 59);
+  padding: 50px;
+}
+
+.circle img {
+  border-radius: 50%;
+  width: 300px;
+  padding: 20px;
+}
+
+header {
+  padding: 40px;
+  height: 40px;
+}
+
+nav {
+  padding: 8px 40px;
+  background-color: rgb(40, 77, 59);
+  color: white;
+  border-radius: 10px;
+}
+
+main {
+  padding: 40px;
+  /* height: 400px; */
+}
+
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color: rgb(40, 77, 59);
+  color: white;
+}
